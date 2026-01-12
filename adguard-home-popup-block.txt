@@ -1,0 +1,33 @@
+# AdGuard Home Custom Adblock Filters
+# Focus: Popup ads, trackers, VNExpress-related ads
+
+# Google Ads / DoubleClick
+||securepubads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||partner.googleadservices.com^
+||adservice.google.com^
+||stats.g.doubleclick.net^
+
+# Amazon Ads
+||amazon-adsystem.com^
+||c.amazon-adsystem.com^
+
+# VNExpress / Vietnam ad networks
+||s.eclick.vn^
+||la2.vnecdn.net^
+||s1.vnecdn.net^
+||gw.vnexpress.net^
+
+# FPT / Video ads
+||octopus-stream01-cads.fpt.vn^
+
+# General ad & tracking networks
+||match.adsrvr.org^
+||adsafeprotected.com^
+||doubleclick.net^
+||adnxs.com^
+||rubiconproject.com^
+||openx.net^
+||yieldmanager.com^
+||adform.net^
